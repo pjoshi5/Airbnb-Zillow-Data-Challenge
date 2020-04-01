@@ -1,0 +1,5 @@
+Metadata Created:
+1. Median Price - Latest Market Value available. This is used to calculate ROI
+2. Expected Revenue - Yearly Revenue calculated using the assumed Occupancy Rate
+3. Return On Investment (ROI) - Measures the gain or loss generated on an investment relative to the amount of money invested
+4. Break Even Period - Time it takes for the property to return it’s cost price. This is taken in the form of years
